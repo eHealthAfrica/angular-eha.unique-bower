@@ -1,0 +1,26 @@
+{
+  "name": "angular-eha.unique",
+  "description": "Validate two model values are unique",
+  "authors": [
+    "Tom Vincent <git@tlvince.com>"
+  ],
+  "moduleType": [
+    "globals",
+    "node"
+  ],
+  "homepage": "https://tlvince.com",
+  "keywords": "unique,validator,angular",
+  "main": "unique.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/eHealthAfrica/angular-eha.unique.git"
+  },
+  "license": "Apache-2.0",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
